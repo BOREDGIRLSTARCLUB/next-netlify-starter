@@ -21,13 +21,13 @@ export default function Home() {
       </main>
     
 <NextScript />
-<script
+<iframe
 src="https://gateway.ipfscdn.io/ipfs/Qma5FgmS9s3hkQrURfG4XDnh5Dxp9Fx9ZjBYkPFUNdQwfi/signature-drop.html?contract=0x9BC1557c0B4eF54b3070dD1465f4CA4A9B8373aB&chainId=137"
 width="600px"
 height="600px"
 style="max-width:100%;"
 frameborder="0"
-></script>
+></iframe>
 
     
 
